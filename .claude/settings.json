@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat .gitignore)",
+      "Bash(ls Cargo.lock)",
+      "Bash(cargo generate-lockfile:*)"
+    ]
+  }
+}

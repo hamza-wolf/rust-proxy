@@ -5,7 +5,6 @@
 **/*.out
 
 # Build artifacts
-Cargo.lock
 
 # Logs
 *.log
